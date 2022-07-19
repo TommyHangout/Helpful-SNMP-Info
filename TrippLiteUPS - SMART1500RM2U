@@ -1,0 +1,29 @@
+Found OIDs:
+1.3.6.1.2.1.33.1.1.1.0: UPS-MIB|ups ident|ups ident manufacturer||,Undefined,,(not defined),2
+1.3.6.1.2.1.33.1.1.2.0: UPS-MIB|ups ident|ups ident model||,Undefined,,(not defined),2
+1.3.6.1.2.1.33.1.1.3.0: UPS-MIB|ups ident|ups ident ups software version||,Undefined,,(not defined),2
+1.3.6.1.2.1.33.1.1.4.0: UPS-MIB|ups ident|ups ident agent software version||,Undefined,,(not defined),2
+1.3.6.1.2.1.33.1.1.5.0: UPS-MIB|ups ident|ups ident name||,Undefined,,(not defined),2
+1.3.6.1.2.1.33.1.1.6.0: UPS-MIB|ups ident|ups ident attached devices||,Undefined,,(not defined),2
+1.3.6.1.2.1.33.1.2.1.0: UPS-MIB|ups battery|ups battery status||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.2.3.0: UPS-MIB|ups battery|ups estimated minutes remaining||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.2.4.0: UPS-MIB|ups battery|ups estimated charge remaining||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.2.5.0: UPS-MIB|ups battery|ups battery voltage||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.2.7.0: UPS-MIB|ups battery|ups battery temperature||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.3.2.0: UPS-MIB|ups input|ups input num lines||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.3.3.1.1.1: UPS-MIB|ups input: 1|ups input line index||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.3.3.1.2.1: UPS-MIB|ups input: 1|ups input frequency||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.3.3.1.3.1: UPS-MIB|ups input: 1|ups input voltage||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.4.1.0: UPS-MIB|ups output|ups output source||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.4.2.0: UPS-MIB|ups output|ups output frequency||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.4.3.0: UPS-MIB|ups output|ups output num lines||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.4.4.1.1.1: UPS-MIB|ups output: 1|ups output line index||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.4.4.1.2.1: UPS-MIB|ups output: 1|ups output voltage||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.4.4.1.3.1: UPS-MIB|ups output: 1|ups output current||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.4.4.1.4.1: UPS-MIB|ups output: 1|ups output power||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.4.4.1.5.1: UPS-MIB|ups output: 1|ups output percent load||,Undefined,,(not defined),0, 64 Bit
+1.3.6.1.2.1.33.1.6.1.0: UPS-MIB|ups alarm|ups alarms present||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.9.1.0: UPS-MIB|ups config|ups config input voltage||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.9.8.0: UPS-MIB|ups config|ups config audible status||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.9.9.0: UPS-MIB|ups config|ups config low voltage transfer point||,Undefined,,(not defined),0
+1.3.6.1.2.1.33.1.9.10.0: UPS-MIB|ups config|ups config high voltage transfer point||,Undefined,,(not defined),0
